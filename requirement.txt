@@ -1,0 +1,14 @@
+pip install numpy == 1.19.25
+pip install matplotlib
+pip install pandas
+pip install pandas_datareader
+pip install datetime
+
+pip install sklearn3
+pip install scikit-learn
+pip install tensorflow
+
+pip install tensorflow.keras
+
+
+
